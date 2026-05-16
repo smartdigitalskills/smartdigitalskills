@@ -1,25 +1,25 @@
-# مرحبًا 👋
+# Hi there 👋
 
-أنا محمد حميدوش، مدرب مهني في تخصصات الإعلام الآلي والإلكترونيك.
+I'm Mohamed Hamidouche, a vocational trainer specialized in Information Technology and Electronics.
 
-## اهتماماتي المهنية
+## Professional Interests
 
-- الذكاء الاصطناعي في التعليم
-- التكوين المهني وفق المقاربة بالكفاءات (APC)
-- أنظمة الحاسوب والشبكات
-- صيانة الحاسوب
-- Linux و Windows
-- تطوير المحتوى التعليمي التقني
-- المشاريع التطبيقية المهنية
+- Artificial Intelligence in Education
+- Competency-Based Training (APC)
+- Computer Systems and Networking
+- Computer Maintenance
+- Linux and Windows
+- Technical Educational Content Development
+- Practical Vocational Projects
 
-## أعمل حاليًا على
+## Currently Working On
 
-- دمج الذكاء الاصطناعي في التكوين المهني
-- تطوير دروس تقنية تطبيقية
-- إنشاء موارد تعليمية حديثة
-- بناء مشاريع تعليمية رقمية
+- Integrating AI into vocational training
+- Developing practical technical lessons
+- Creating modern educational resources
+- Building digital learning projects
 
-## المهارات والتقنيات
+## Skills & Technologies
 
 - Windows
 - Ubuntu Linux
@@ -29,11 +29,11 @@
 - AI Tools
 - Educational Technology
 
-## أهدافي
+## Goals
 
-إنشاء محتوى تقني وتعليمي احترافي يساعد المتعلمين والمدربين على تطوير مهاراتهم العملية وفق المعايير الحديثة.
+Creating professional technical and educational content that helps learners and trainers develop practical skills according to modern training standards.
 
 ---
 
-📍 الجزائر  
-🌍 مهتم بالتعاون والتطوير المهني الدولي
+📍 Algeria  
+🌍 Interested in international collaboration and professional development
