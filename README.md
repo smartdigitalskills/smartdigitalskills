@@ -1,16 +1,39 @@
-## Hi there 👋
+# مرحبًا 👋
 
-<!--
-**hamidouche1984/hamidouche1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا محمد حميدوش، مدرب مهني في تخصصات الإعلام الآلي والإلكترونيك.
 
-Here are some ideas to get you started:
+## اهتماماتي المهنية
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- الذكاء الاصطناعي في التعليم
+- التكوين المهني وفق المقاربة بالكفاءات (APC)
+- أنظمة الحاسوب والشبكات
+- صيانة الحاسوب
+- Linux و Windows
+- تطوير المحتوى التعليمي التقني
+- المشاريع التطبيقية المهنية
+
+## أعمل حاليًا على
+
+- دمج الذكاء الاصطناعي في التكوين المهني
+- تطوير دروس تقنية تطبيقية
+- إنشاء موارد تعليمية حديثة
+- بناء مشاريع تعليمية رقمية
+
+## المهارات والتقنيات
+
+- Windows
+- Ubuntu Linux
+- Networking
+- Hardware Maintenance
+- Git & GitHub
+- AI Tools
+- Educational Technology
+
+## أهدافي
+
+إنشاء محتوى تقني وتعليمي احترافي يساعد المتعلمين والمدربين على تطوير مهاراتهم العملية وفق المعايير الحديثة.
+
+---
+
+📍 الجزائر  
+🌍 مهتم بالتعاون والتطوير المهني الدولي
