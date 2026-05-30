@@ -4,8 +4,8 @@ I'm Mohamed Hamidouche, a vocational trainer specialized in Information Technolo
 
 ## Professional Interests
 
-- Artificial Intelligence in Education
-- Competency-Based Training (APC)
+- Artificial Intelligence in VET
+- Competence Based Approach (CBA)
 - Computer Systems and Networking
 - Computer Maintenance
 - Linux and Windows
@@ -21,7 +21,7 @@ I'm Mohamed Hamidouche, a vocational trainer specialized in Information Technolo
 
 ## Skills & Technologies
 
-- Windows
+- Windows OS
 - Ubuntu Linux
 - Networking
 - Hardware Maintenance
